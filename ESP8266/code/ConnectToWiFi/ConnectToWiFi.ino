@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // Global Variables
-const char *ssid         = "WuXD";
-const char *password     = "5p7i2g3h";
+const char *ssid         = "****";
+const char *password     = "********";
 
 void setup()
 {
