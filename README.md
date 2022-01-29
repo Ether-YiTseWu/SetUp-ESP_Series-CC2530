@@ -1,6 +1,6 @@
 # SetUp-ESP_Series-CC2530
 ## Overview
-Introduce the tool and links of burnning ESP8266/ESP32/CC2530   
+Introduce the tool and links of burning ESP8266/ESP32/CC2530   
 
 ## Usage
 Refer the below links
